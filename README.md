@@ -100,4 +100,4 @@ The dashboard enables:
 
 ## 📸 Dashboard Preview
 
-![Dashboard](./dashboard.png)
+![Dashboard](./Sales Dashboard.gif)
