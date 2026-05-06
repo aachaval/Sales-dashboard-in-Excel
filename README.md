@@ -100,4 +100,6 @@ The dashboard enables:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Demo](./dashboard.gif)
+<p align="center">
+  <img src="./dashboard.gif" width="800"/>
+</p>
