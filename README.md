@@ -1,4 +1,3 @@
-# Sales-dashboard-in-Excel
 # 📊 Sales & Shipping Dashboard
 
 ## 🧾 Executive Summary
