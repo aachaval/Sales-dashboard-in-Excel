@@ -101,5 +101,5 @@ The dashboard enables:
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="./dashboard.gif" width="800"/>
+  <img src="./sample.gif" width="800"/>
 </p>
