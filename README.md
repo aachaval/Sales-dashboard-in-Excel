@@ -21,6 +21,12 @@ Manual reporting processes are time-consuming and prone to errors, limiting the 
 
 ---
 
+## 💼 Use Case
+
+Designed for small to mid-sized businesses managing sales data across multiple periods without a centralized BI system.
+
+---
+
 ## ⚙️ Methodology
 
 ### Data Sources
